@@ -22,7 +22,7 @@
 
 - B 站(有视频): [https://space.bilibili.com/436465779](https://space.bilibili.com/436465779)
 
-- 整理编写不易，喜欢的话右上角给个 **star** 呗，本人主学 WEB，大专，现读大三找实习中，有啥好工作引荐下呗；
+- 整理编写不易，喜欢的话右上角给个 **star** 呗
 
 ## [openwrt 单独参数及功能说明](/openwrt/readme.md)
 
@@ -92,7 +92,7 @@ schedule:                 # 时间表
   |   |-- workfloms     # 存放 Action 的 YML文件
   |-- openwrt           # openwrt 有关
   |   |-- backups       # openwrt 文件备份 以及 openwrt 编译模板
-  |   |-- public.sh      # 公共的修改执行文件
+  |   |-- public.sh     # 公共的修改执行文件
   |-- padavan           # padavan 有关
   |   |-- backups       # padanvan文件备份 以及 padavan 编译模板
   |   |-- public.sh     # 公共的修改执行文件
